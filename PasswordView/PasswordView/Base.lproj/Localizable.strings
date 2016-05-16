@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  PasswordView
+
+  Created by April Lee on 2016/5/6.
+  Copyright © 2016年 april. All rights reserved.
+*/
+
+
+//Title
+
+"MainPageTitle" = "Main";
+"SetPageTitle" = "Set Possword";
+"ResetPageTitle" = "Reset Password";
+"RemovePageTitle" = "Remove Password";
+"CheckPageTitle" = "Check Passwrod";
+
+//message
+
+"InputInvalid" = "It is invalid charachter.";
+
+"passwordMessage" = "* Password needs to be at 8 ~ 12 characters.";
+"retypePasswordError" = "* Password confirmation doesn't match.";
+
+"checkPasswordSuccess" = "* Your password is right.";
+"checkPasswordFail" = "* Your password is wrong.";
