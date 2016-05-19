@@ -24,3 +24,9 @@
 
 "checkPasswordSuccess" = "* Your password is right.";
 "checkPasswordFail" = "* Your password is wrong.";
+
+//Alert view
+
+"Information" = "Information";
+"HaveFunToPasswordView" = "Have fun to password view!!";
+"OKMessage" = "😁OK";

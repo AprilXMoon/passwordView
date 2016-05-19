@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "Set Password"; ObjectID = "2np-Le-8o1"; */
+"2np-Le-8o1.normalTitle" = "設定密碼";
+
+/* Class = "UIButton"; normalTitle = "Remove Password"; ObjectID = "2uZ-zg-Q11"; */
+"2uZ-zg-Q11.normalTitle" = "移除密碼";
+
+/* Class = "UIButton"; normalTitle = "Reset password"; ObjectID = "4u0-En-N3r"; */
+"4u0-En-N3r.normalTitle" = "重設密碼";
+
+/* Class = "UIButton"; normalTitle = "Remove password"; ObjectID = "CGA-HU-JuC"; */
+"CGA-HU-JuC.normalTitle" = "移除密碼";
+
+/* Class = "UILabel"; text = "Hint mesage"; ObjectID = "Dc6-wg-76v"; */
+"Dc6-wg-76v.text" = "提示文字";
+
+/* Class = "UILabel"; text = "Response message"; ObjectID = "Djv-73-nvQ"; */
+"Djv-73-nvQ.text" = "回應文字";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "EcB-C4-oge"; */
+"EcB-C4-oge.normalTitle" = "重設密碼";
+
+/* Class = "UIButton"; normalTitle = "Check password"; ObjectID = "FHI-Ll-q8v"; */
+"FHI-Ll-q8v.normalTitle" = "確認密碼";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "N3V-Ai-YvC"; */
+"N3V-Ai-YvC.placeholder" = "新密碼";
+
+/* Class = "UITextField"; placeholder = "Re-type Password"; ObjectID = "TCh-0G-oaX"; */
+"TCh-0G-oaX.placeholder" = "確認密碼";
+
+/* Class = "UITextField"; placeholder = "Your Password"; ObjectID = "Tmg-x8-n3t"; */
+"Tmg-x8-n3t.placeholder" = "你的密碼";
+
+/* Class = "UIButton"; normalTitle = "Set password"; ObjectID = "UxF-fL-Mqp"; */
+"UxF-fL-Mqp.normalTitle" = "設定密碼";
+
+/* Class = "UITextField"; placeholder = "Password(8 ~ 12 characters)"; ObjectID = "X4s-bN-ftX"; */
+"X4s-bN-ftX.placeholder" = "密碼(請輸入8~12個英數字)";
+
+/* Class = "UILabel"; text = "Hint message"; ObjectID = "rAq-a0-M83"; */
+"rAq-a0-M83.text" = "提示文字";
+
+/* Class = "UITextField"; placeholder = "Your Password"; ObjectID = "sId-ra-TG8"; */
+"sId-ra-TG8.placeholder" = "你的密碼";
+
+/* Class = "UILabel"; text = "Hint message"; ObjectID = "siy-Fh-ezo"; */
+"siy-Fh-ezo.text" = "提示文字";
+
+/* Class = "UIButton"; normalTitle = "Check Password"; ObjectID = "yG5-An-lH9"; */
+"yG5-An-lH9.normalTitle" = "確認密碼";
+
+/* Class = "UITextField"; placeholder = "Your Password"; ObjectID = "zAf-HR-KO7"; */
+"zAf-HR-KO7.placeholder" = "原本的密碼";

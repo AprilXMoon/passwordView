@@ -121,11 +121,11 @@
 
 - (void)showInformationAlertView
 {
-    UIAlertController *infoAlertView = [UIAlertController alertControllerWithTitle:@"Information"
-                                                                           message:@"Have fun to password view!!"
+    UIAlertController *infoAlertView = [UIAlertController alertControllerWithTitle:NSLocalizedString(@"Information", nil)
+                                                                           message:NSLocalizedString(@"HaveFunToPasswordView", nil)
                                                                     preferredStyle:UIAlertControllerStyleAlert];
     
-    UIAlertAction *okAction = [UIAlertAction actionWithTitle:@" 😁 OK"
+    UIAlertAction *okAction = [UIAlertAction actionWithTitle:NSLocalizedString(@"OKMessage", nil)
                                                        style:UIAlertActionStyleDefault
                                                      handler:^(UIAlertAction * _Nonnull action) {}];
     

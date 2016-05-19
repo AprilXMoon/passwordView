@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  PasswordView
+
+  Created by April Lee on 2016/5/6.
+  Copyright © 2016年 april. All rights reserved.
+*/
+
+
+//Title
+
+"MainPageTitle" = "主頁";
+"SetPageTitle" = "設定密碼";
+"ResetPageTitle" = "重設密碼";
+"RemovePageTitle" = "移除密碼";
+"CheckPageTitle" = "確認密碼";
+
+//message
+
+"InputInvalid" = "請輸入英數字";
+
+"passwordMessage" = "* 請輸入8~12個英數字";
+"retypePasswordError" = "* 密碼不相符，請重新輸入密碼";
+
+"checkPasswordSuccess" = "* 密碼正確!!";
+"checkPasswordFail" = "* 密碼錯誤!!";
+
+//Alert view
+
+"Information" = "資訊";
+"HaveFunToPasswordView" = "玩的開心!!";
+"OKMessage" = "😁OK";
